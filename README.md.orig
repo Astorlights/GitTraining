@@ -1,4 +1,4 @@
-﻿# Introduction
+# Introduction
 
 The main goal of this repository is to provide a hands-on introduction training
 for GIT SCM.
@@ -75,7 +75,10 @@ Who took this course:
 
 * Vladimir Kloz
 * Tomas Volf
-* *** Abe ***
+<<<<<<< HEAD
+Abe
+=======
 * Michaela Sluková
 * Lubos Kriz
 
+>>>>>>> 6a97f0c7af955fa81653ac3f7d05a937110f76fe
